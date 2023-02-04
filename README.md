@@ -1,5 +1,11 @@
 # CG Prints
 
+- [Sticker Printing](#sticker-printing)
+  - [Premade](#premade)
+  - [Custom Requests](#custom-requests)
+  - [Bulk/Branding](#bulkbranding)
+- [Platforms](#platforms)
+
 ## Sticker Printing
 
 ### Premade
@@ -16,3 +22,8 @@
 * Offerings for businesses who seeks to print stickers for the purposes of branding.
 * Orders will be in bulk.
 * We can also enter into an agreement to be an exlusive provider for a set period of time.
+
+### Platforms
+* Facebook Marketplace
+* LAZADA
+* Shopee
